@@ -30,7 +30,7 @@ Send tasks to this repository as a Pull Request
   - Position offset **Vector3(7,4.5,-4)**
   - Rotation **Vector3(30,-45,0)**
   - Smoothness effect can be added
-4. In [_Video 1_](https://github.com/enterosoft-com/unity-test-tasks/blob/master/Video%201.mp4) it is shown how the final effect should look like (I added a few cubes in the background to show the movement)
+4. In [_Video 1_](https://drive.google.com/file/d/1bS-ooH_PQ0u9zm9nHMOl24CeLgS7SnyI/view?usp=share_link) it is shown how the final effect should look like (I added a few cubes in the background to show the movement)
 
 # Map building
 
@@ -50,7 +50,7 @@ Send tasks to this repository as a Pull Request
 1. When a player collides with a wall or a spike, he starts from the starting position - **Vector3(0,3,0)**
 2. Destroys a Coin if it touches it
 3. When it hits Finish, the player stops
-4. Example in [_Video 2_](https://github.com/enterosoft-com/unity-test-tasks/blob/master/Video%202.mp4)
+4. Example in [_Video 2_](https://drive.google.com/file/d/1v8RFOXAh2qEMrFIpfR1VqijOSoWWrS6W/view?usp=share_link)
 
 # Menu UI
 
