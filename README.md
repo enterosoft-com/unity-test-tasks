@@ -10,7 +10,7 @@ It is suggested to use the recommended LTS version of Unity.
 
 ⭐ - more difficult task
 
-Send tasks to this repository as a Pull Request
+After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.unity@enterosoft.com)
 
 # Preparing the project
 
@@ -20,7 +20,7 @@ Send tasks to this repository as a Pull Request
 4. Install from Package Manager **2D Sprites**
 5. Open the "Game" scene
 
-# Basic Movement - Player Prefab (Video 1)
+# Basic Movement - Player Prefab
 
 1. Add object "_PlayerCube1_" and change position **Y = 3** and rotation **Y = 90**
 2. Write a move script for it
@@ -31,7 +31,7 @@ Send tasks to this repository as a Pull Request
   - Position offset **Vector3(7,4.5,-4)**
   - Rotation **Vector3(30,-45,0)**
   - Smoothness effect can be added
-4. In [_Video 1_](https://drive.google.com/file/d/1bS-ooH_PQ0u9zm9nHMOl24CeLgS7SnyI/view?usp=share_link) it is shown how the final effect should look like (I added a few cubes in the background to show the movement)
+4. In [_Video_](https://drive.google.com/file/d/1bS-ooH_PQ0u9zm9nHMOl24CeLgS7SnyI/view?usp=share_link) it is shown how the final effect should look like (I added a few cubes in the background to show the movement)
 
 # Map building
 
@@ -46,12 +46,12 @@ Send tasks to this repository as a Pull Request
 
 #
 
-# Collision Detection (Video 2)
+# Collision Detection
 
 1. When a player collides with a wall or a spike, he starts from the starting position - **Vector3(0,3,0)**
 2. Destroys a Coin if it touches it
 3. When it hits Finish, the player stops
-4. Example in [_Video 2_](https://drive.google.com/file/d/1v8RFOXAh2qEMrFIpfR1VqijOSoWWrS6W/view?usp=share_link)
+4. Example in [_Video_](https://drive.google.com/file/d/1v8RFOXAh2qEMrFIpfR1VqijOSoWWrS6W/view?usp=share_link)
 
 # Menu UI
 
@@ -192,3 +192,7 @@ Button in the menu: **ONLINE** -\> <img src="https://user-images.githubuserconte
 [https://storage.googleapis.com/enterosoft-data/Level1.json](https://storage.googleapis.com/enterosoft-data/Level1.json)
 
 (with music, link provided in json)
+
+#
+
+After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.unity@enterosoft.com)
