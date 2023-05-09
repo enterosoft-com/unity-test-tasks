@@ -10,7 +10,7 @@ It is suggested to use the recommended LTS version of Unity.
 
 ⭐ - more difficult task
 
-After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.unity@enterosoft.com)
+After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.unity@enterosoft.com) (this can also be a github link)
 
 # Preparing the project
 
@@ -195,4 +195,4 @@ Button in the menu: **ONLINE** -\> <img src="https://user-images.githubuserconte
 
 #
 
-After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.unity@enterosoft.com)
+After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.unity@enterosoft.com) (this can also be a github link)
