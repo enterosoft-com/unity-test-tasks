@@ -22,10 +22,10 @@ After completing the tasks, send the "Assets" folder by [e-mail](mailto:career.u
 
 # Basic Movement - Player Prefab
 
-1. Add object "_PlayerCube1_" and change position **Y = 3** and rotation **Y = 90**
+1. Add object "_PlayerCube1_" and change position **Y = 3** and rotation **Y = 90** (cube should be 1x1x1)
 2. Write a move script for it
-  - Constant **velocity** as well **Z = 10**
-  - When touching the screen / clicking the left mouse button, the object jumps up using **impulsive force Y = 18.6**
+  - Constant **velocity**  **Z = 10**
+  - When touching the screen / clicking the left mouse button the object jumps up using **impulsive force Y = 18.6**
   - Gravitation **y-axis** should be **-60**
 3. Write a follow object script for the camera
   - Position offset **Vector3(7,4.5,-4)**
